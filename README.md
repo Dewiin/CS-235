@@ -1,1 +1,1 @@
-# CS-235
+# My CSCSI-235 Projects and Assignments
